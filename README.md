@@ -9,7 +9,7 @@ Install
 1. `about:config`
 2. change `xpinstall.signatures.required` to `false`
 3. `about:addons`
-4. drag `.zip` to install
+4. drag `web-ext-artifacts/writegood-1.0.zip` to install
 5. highlight and right-click some text
 6. click WriteGood - Analyze Writing
 
